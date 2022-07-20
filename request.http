@@ -1,0 +1,14 @@
+###
+GET  HTTP/1.1
+http://localhost:3000/api
+
+
+###
+GET  HTTP/1.1
+http://localhost:3000/api/category
+
+
+###
+GET HTTP/1.1
+http://localhost:3000/api/category/1
+
